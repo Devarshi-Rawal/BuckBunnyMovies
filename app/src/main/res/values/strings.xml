@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BuckBunnyMovies</string>
+    <string name="download">Download</string>
+    <string name="play">Play</string>
+</resources>
